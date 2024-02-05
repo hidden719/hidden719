@@ -11,7 +11,7 @@
 
 #### Research
 - Towards accurate and certain molecular properties prediction[[Link](https://ieeexplore.ieee.org/abstract/document/9952716)]
-- Evidential Meta-Learning for Molecular Property Prediction [[Code](https://github.com/Ajou-DILab/EM3P2)]
+- Evidential Meta-Learning for Molecular Property Prediction [[Code](https://github.com/Ajou-DILab/EM3P2)][[Paper](https://academic.oup.com/bioinformatics/article/39/10/btad604/7320005?login=false)]
 
 
 ### Contact
